@@ -1,7 +1,7 @@
 // set up text to print, each item in array is new line
 var aText = new Array(
-    "Unleash Your Creativity!", 
-    "Lorem ipsum is simply ..."
+    "Unleash The Leashed Memes!", 
+    "Prepare for the memeocalypse..."
 );
 var iSpeed = 100; // time delay of print out
 var iIndex = 0; // start printing array at this posision
